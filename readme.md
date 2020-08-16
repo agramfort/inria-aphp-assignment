@@ -46,7 +46,7 @@ afin de tester la qualité de votre function.
 
 - Faire un notebook jupyter d'analyse exploratoire de données
 (EDA exploratory data analysis). Il est demandé de représenter
-visuellement (graphiques, historammes, etc.). Ce notebook
+visuellement (graphiques, histogrammes, etc.). Ce notebook
 devra utiliser le dataframe `df_patient` après la déduplication
 utilisant la fonction `detect_duplicates`. Vous ferez
 la jointure entre les dataframes `df_patient` et `df_pcr`
