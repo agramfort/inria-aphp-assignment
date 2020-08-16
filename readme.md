@@ -65,4 +65,6 @@ disponibles sur PyPi ou conda forge.
 détaille le contenu des différents fichiers et les librairies
 à installer pour utiliser votre code.
 
-
+- Il est préférable que le code Python soit écrit en Anglais.
+Les commentaires et les analyses dans les notebooks
+devront être en Français.
